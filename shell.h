@@ -12,6 +12,9 @@
 #include <sys/signal.h>
 #include <dirent.h>
 #include <sys/stat.h>
+#include <string.h>
+#include <sys/stat.h>
+#include <fcntl.h>
 
 /**
  * struct tpesPer - structure for percentage formats
